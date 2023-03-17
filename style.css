@@ -72,8 +72,8 @@ body {
 p {
   font-family: 'Kalam';
   display: block;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: 25;
+  margin-bottom: 25;
   max-width:200px;
   max-height:250px;
   color: #333;
