@@ -71,6 +71,7 @@ body {
 
 p {
   font-family: 'Kalam';
+  text-align: left;
   display: block;
   margin:50px;
   width:200px;
