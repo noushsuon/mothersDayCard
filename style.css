@@ -5,10 +5,10 @@ body {
 
 .Card {
   margin-left: auto;
+  margin-top: 20px;
   margin-right: auto;
-  margin-top: auto;
-  width: 25%;
-  height:35%;
+  width: 250px;
+  height:350px;
   cursor: pointer;
   transform-style: preserve-3d;
 	transform: perspective(2500px);
@@ -17,7 +17,7 @@ body {
 
 .Card:hover {
 	transform: perspective(2500px) rotate(5deg);
-	box-shadow: inset 10% 2% 10% rgba(0,0,0,.2), 0 1% 10% rgba(0,0,0,0.5);
+	box-shadow: inset 100px 20px 100px rgba(0,0,0,.2), 0 10px 100px rgba(0,0,0,0.5);
 }
 
 .Card:hover .cardFront {
@@ -35,18 +35,18 @@ body {
 .cardFront {
   position: relative;
   background-color: #fff;
-  width: 25%;
-  height:35%;
+  width: 250px;
+  height:350px;
   overflow: hidden;
   transform-origin: left;
-  box-shadow: inset 10% 2% 10% rgba(0,0,0,.2), 3% 0 5% rgba(0,0,0,0.4);
+  box-shadow: inset 100px 20px 100px rgba(0,0,0,.2), 30px 0 50px rgba(0,0,0,0.4);
   transition: .6s;
 }
 
 .happy {
   font-family: 'Rufina', serif;
   text-align: center;
-  margin:3%;
+  margin:30px;
   transition: .1s;
 }
 
@@ -54,24 +54,24 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  min-width: 20%;
 }
 
 .cardInside {
   position: absolute;
   background-color: #fff;
-  width:25%;
-  height:35%;
+  width:250px;
+  height:350px;
   z-index:-1;
   left:0;
   top:0;
-  box-shadow: inset 10% 2% 10% rgba(0,0,0,0.2);
+  box-shadow: inset 100px 20px 100px rgba(0,0,0,0.2);
 }
 
 p {
   font-family: 'Kalam', cursive;
-  margin:2.5%;
-  max-height: 35%;
+  font-size: medium;
+  margin:25px;
+  max-height: 350px;
   text-align: left;
   display: block;
   color: #333;
