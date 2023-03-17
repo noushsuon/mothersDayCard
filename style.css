@@ -6,7 +6,7 @@ body {
 .Card {
   margin-left: auto;
   margin-right: auto;
-  margin-top: 25%;
+  margin-top: 10px;
   width: 25%;
   height:35%;
   cursor: pointer;
