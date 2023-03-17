@@ -6,7 +6,7 @@ body {
 .Card {
   margin-left: auto;
   margin-right: auto;
-  margin-top: 25%;
+  margin-top: 10px;
   width: 25%;
   height:35%;
   cursor: pointer;
@@ -70,8 +70,9 @@ body {
 
 p {
   font-family: 'Kalam', cursive;
-  margin:2.5%;
-  max-height: 35%;
+  font-size: medium;
+  margin:25px;
+  max-height: 350px;
   text-align: left;
   display: block;
   color: #333;
