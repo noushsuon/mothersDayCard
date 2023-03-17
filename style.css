@@ -3,7 +3,7 @@ body {
   align-items: center;
   justify-content: center;
   height:100vh;
-  background-color: #1ca99f;
+  background-color: #aa5eac;
 }
 
 .Card {
@@ -45,7 +45,7 @@ body {
 }
 
 .happy {
-  font-family: Cooper;
+  font-family: 'Cooper';
   text-align: center;
   margin:30px;
   transition: .1s;
@@ -70,8 +70,8 @@ body {
 }
 
 p {
-  font-family: 'Kalam', cursive;
-  margin: 40px;
+  font-family: 'Kalam';
+  max-width:200;
   color: #333;
 }
 
