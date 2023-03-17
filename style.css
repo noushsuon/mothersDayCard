@@ -1,6 +1,6 @@
 body {
   display: block;
-  background-color: #b7eefd;
+  background-color: #707ed8;
 }
 
 .Card {
@@ -33,7 +33,7 @@ body {
 
 .cardFront {
   position: relative;
-  background-color: #fff;
+  background-color: #f1e7d1;
   width:250px;
   height:350px;
   overflow: hidden;
@@ -75,9 +75,9 @@ p {
 }
 
 .heart {
-  fill: red;
+  fill: rgb(227, 45, 45);
   position: relative;
-  top: 5px;
+  transform: rotate(5deg);
   width: 50px;
   animation: pulse 1s ease infinite;
 }
