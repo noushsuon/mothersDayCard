@@ -71,7 +71,8 @@ body {
 
 p {
   font-family: 'Kalam';
-  max-width:200;
+  max-width:200px;
+  max-height:250px;
   color: #333;
 }
 
