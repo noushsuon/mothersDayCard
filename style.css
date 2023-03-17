@@ -70,9 +70,9 @@ body {
 }
 
 p {
-  text-align: center;
   font-family: 'Kalam';
   display: block;
+  margin:50px;
   width:200px;
   height:250px;
   color: #333;
