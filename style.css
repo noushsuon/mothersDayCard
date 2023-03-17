@@ -6,15 +6,9 @@ body {
 .Card {
   margin-left: auto;
   margin-right: auto;
-<<<<<<< HEAD
   margin-top: 10px;
   width: 25%;
   height:35%;
-=======
-  margin-top: 25%;
-  width: 250px;
-  height:350px;
->>>>>>> parent of 74e4425 (percent)
   cursor: pointer;
   transform-style: preserve-3d;
 	transform: perspective(2500px);
