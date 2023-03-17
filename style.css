@@ -1,5 +1,5 @@
 body {
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
   height:100vh;
@@ -61,7 +61,7 @@ body {
 .cardInside {
   position: absolute;
   background-color: #fff;
-  width: 250px;
+  width:250px;
   height:350px;
   z-index:-1;
   left:0;
@@ -71,15 +71,8 @@ body {
 
 p {
   font-family: 'Kalam';
+  margin:25px;
   text-align: left;
   display: block;
-  color: #333;
-  margin:25px
-}
-
-.name {
-  position: absolute;
-  left:auto;
-  top:auto;
   color: #333;
 }
