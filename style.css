@@ -71,6 +71,7 @@ body {
 p {
   font-family: 'Kalam', cursive;
   margin:25px;
+  max-height: 350px;
   text-align: left;
   display: block;
   color: #333;
