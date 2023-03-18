@@ -79,9 +79,8 @@ p {
   margin-left: auto;
   margin-right: auto;
   fill: rgb(227, 45, 45);
-  position: relative;
   height: 25px;
-  animation: pulse 1.5s ease infinite;
+  animation: pulse 1s ease infinite;
 }
 
 @keyframes pulse {
