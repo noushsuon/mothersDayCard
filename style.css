@@ -46,6 +46,7 @@ body {
   font-family: 'Rufina', serif;
   text-align: center;
   margin:30px;
+  margin-too:50x;
   transition: .1s;
 }
 
@@ -79,8 +80,8 @@ p {
   margin-right: auto;
   fill: rgb(227, 45, 45);
   position: relative;
-  width: 300px;
-  z-index:-1;
+  width: 200px;
+  z-index:-2;
   animation: pulse 1s ease infinite;
 }
 
