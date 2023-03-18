@@ -80,9 +80,8 @@ p {
   margin-right: auto;
   fill: rgb(227, 45, 45);
   position: relative;
-  width: 200px;
-  z-index:-2;
-  animation: pulse 1s ease infinite;
+  height: 25px;
+  animation: pulse 1.5s ease infinite;
 }
 
 @keyframes pulse {
