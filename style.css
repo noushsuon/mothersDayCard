@@ -79,7 +79,6 @@ p {
   position: relative;
   transform: rotate(5deg);
   padding-left:90px;
-  top:5px;
   width: 50px;
   animation: pulse 1s ease infinite;
 }
