@@ -75,10 +75,11 @@ p {
 }
 
 .heart {
+  margin-left: auto;
+  margin-right: auto;
   fill: rgb(227, 45, 45);
   position: relative;
-  transform: rotate(5deg);
-  width: 450px;
+  width: 300px;
   z-index:-1;
   animation: pulse 1s ease infinite;
 }
