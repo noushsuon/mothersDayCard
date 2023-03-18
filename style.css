@@ -78,8 +78,8 @@ p {
   fill: rgb(227, 45, 45);
   position: relative;
   transform: rotate(5deg);
-  padding-left:90px;
-  width: 50px;
+  width: 450px;
+  z-index:-1;
   animation: pulse 1s ease infinite;
 }
 
