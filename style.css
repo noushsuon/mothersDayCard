@@ -1,6 +1,6 @@
 body {
   display: block;
-  background-color: #707ed8;
+  background-color: #f083fc;
 }
 
 .Card {
@@ -46,7 +46,7 @@ body {
   font-family: 'Rufina', serif;
   text-align: center;
   margin:30px;
-  margin-too:50x;
+  margin-top:50x;
   transition: .1s;
 }
 
